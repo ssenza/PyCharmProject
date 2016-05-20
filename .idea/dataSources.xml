@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3126220034">
+    <data-source source="LOCAL" name="Sqlite (Xerial) - db.sqlite3" uuid="8339b402-4bd4-48ac-a698-06c2ff782204">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/mysite/db.sqlite3</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Oracle - @118.37.23.98" uuid="3d5f071d-b7aa-406e-9761-7ed1f9e1d79d">
+      <driver-ref>oracle</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//118.37.23.98:1521/WMS11G</jdbc-url>
+    </data-source>
+  </component>
+</project>
